@@ -1,0 +1,8 @@
+{
+  "name": "CityPulse AI",
+  "description": "Spatial glassmorphism platform for intelligent city exploration, community reviews, citizen civic hazard reporting, and AI city navigation assistant.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
